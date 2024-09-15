@@ -644,6 +644,32 @@ footer-iconTop a i{
 }
 
 @media (max-width: 768px){
+
+
+
+
+
+/*----Seo Course Strat----*/
+ 
+ .seo-course{
+   background: var(--second-bg-color);
+ }
+ 
+ .seo-box {
+   margin: 4rem;
+ }
+ iframe{
+   width: 266px;
+   height: 150px;
+   border-radius: 10px;
+   box-shadow: 5px 5px 10px white, -5px -5px 10px white;
+   
+ }
+ 
+ 
+/*--- Seo Course End----*/
+  
+
   
   #moon{
     display: none;
